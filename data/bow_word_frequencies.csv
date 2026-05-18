@@ -1,0 +1,1001 @@
+word,id,bow_freq
+bagus,1,6074
+banget,2,3031
+mudah,3,2423
+masuk,4,2242
+pakai,5,2234
+transaksi,6,2022
+buka,7,1433
+bantu,8,1352
+transfer,9,1319
+lambat,10,1297
+daftar,11,1239
+tolong,12,1166
+rekening,13,1145
+aplikasi,14,1078
+biaya,15,1056
+baik,16,1033
+kasih,17,987
+susah,18,984
+ok,19,971
+cepat,20,963
+tunai,21,915
+admin,22,908
+verifikasi,23,904
+ribet,24,896
+uang,25,885
+bayar,26,883
+fitur,27,876
+tarik,28,862
+gagal,29,837
+moga,30,804
+baru,31,792
+god,32,789
+pas,33,752
+kartu,34,747
+buruk,35,737
+terima,36,737
+suka,37,723
+coba,38,692
+saldo,39,691
+wajah,40,685
+kalo,41,672
+kali,42,667
+sih,43,659
+atm,44,654
+akun,45,629
+hp,46,622
+oke,47,591
+bikin,48,583
+terima kasih,,558
+gratis,49,552
+data,50,551
+proses,51,529
+tarik tunai,,517
+aman,52,511
+berat,54,504
+cs,53,504
+lancar,55,497
+bagus banget,,496
+bintang,56,484
+buka rekening,,472
+guna,57,467
+layan,58,463
+kena,59,458
+eror,60,455
+up,61,443
+biaya admin,,442
+kode,62,438
+cal,63,435
+mohon,64,426
+vc,65,424
+tabung,66,423
+suruh,67,409
+bagus up,,406
+by,68,399
+langsung,69,393
+setor,70,388
+biar,71,382
+dana,72,381
+tf,73,376
+nih,74,366
+kecewa,75,362
+mulu,76,361
+jaring,77,361
+nasabah,78,356
+nungu,80,354
+jam,79,354
+video,81,351
+qris,82,346
+gabisa,83,345
+no,84,343
+min,85,340
+ktp,86,339
+terimakasih,87,335
+depan,88,335
+dah,89,334
+promo,90,332
+deh,91,328
+video cal,,326
+tingkat,92,323
+kirim,93,321
+salah,94,320
+debit,95,316
+tolong baik,,315
+nyaman,96,315
+blue,97,311
+foto,99,305
+nabung,98,305
+verifikasi wajah,,301
+simple,100,300
+potong,101,297
+praktis,102,295
+gampang,103,294
+orang,105,289
+kendala,106,289
+antri,107,289
+ulang,108,288
+nomor,109,287
+sampe,110,281
+pokok,111,280
+klo,112,278
+butuh,113,276
+puas,114,274
+setor tunai,,273
+mudah transaksi,,271
+putus,116,270
+sulit,115,270
+email,117,269
+sesuai,119,258
+isi,118,258
+hasil,121,253
+loading,122,251
+aktif,123,251
+tampil,124,250
+best,125,247
+manfat,127,243
+virtual,126,243
+tambah,128,242
+menu,129,241
+sistem,130,240
+kena biaya,,237
+tungu,131,236
+otp,132,235
+download,133,234
+bebas,134,230
+simpel,136,227
+kaya,135,227
+lumayan,138,226
+pinjam,137,226
+aneh,139,224
+lengkap,140,221
+enak,141,218
+saran,142,217
+kartu debit,,217
+ya,143,215
+tolak,144,212
+pasword,146,208
+uninstal,145,208
+ganti,148,207
+sukses,149,207
+the,147,207
+hapus,150,206
+gitu,151,201
+susah banget,,200
+mana,152,200
+bilang,153,197
+fiturnya,154,196
+maf,155,192
+bunga,156,191
+tetep,157,190
+nama,158,189
+gangu,159,188
+gin,161,186
+hubung,160,186
+acount,162,185
+sayang,163,184
+mending,164,182
+lambat banget,,180
+online,166,180
+beli,165,180
+beda,168,179
+the best,,179
+jg,167,179
+kayak,169,178
+tau,170,177
+bulan,171,176
+hilang,173,176
+habis,174,175
+fre,175,175
+kasih bintang,,174
+kak,176,174
+sinyal,177,174
+si,178,173
+akses,179,173
+tunai atm,,172
+koneksi,181,172
+mantap,180,172
+cepet,183,171
+respon,182,171
+cashback,184,170
+payah,185,169
+menit,186,168
+tingal,187,167
+rek,188,166
+bagus mudah,,166
+muas,189,165
+cuman,190,162
+ambil,191,160
+scren,192,160
+blokir,193,159
+apa,194,155
+pin,195,155
+mobile,196,152
+yah,198,152
+nice,197,152
+moga depan,,152
+bebas biaya,,151
+masukin,200,151
+ko,199,151
+pilih,201,150
+eh,203,149
+keren,202,149
+duit,204,149
+instal,205,147
+ni,207,145
+fisik,206,145
+muncul,208,143
+aplikasi bagus,,142
+dl,209,142
+virtual acount,,142
+topup,210,142
+lock,214,141
+kadang,212,141
+atur,213,141
+senang,211,141
+solusi,216,140
+kenal,215,140
+kurang,218,139
+va,219,139
+kerja,217,139
+pulsa,220,138
+bug,221,138
+emang,222,135
+kembang,224,134
+banget pakai,,134
+transaksi mudah,,134
+tulis,223,134
+internet,225,132
+aju,226,131
+mantul,227,131
+kartu atm,,130
+lupa,228,130
+ui,229,129
+rb,232,128
+ringan,230,128
+ku,231,128
+halo,233,128
+cocok,234,127
+kode otp,,127
+pindah,235,126
+mudah cepat,,125
+muka,238,124
+dapet,237,124
+suka banget,,124
+foto ktp,,123
+ewalet,243,122
+doang,239,122
+ampun,242,122
+scan,244,122
+banyak,240,122
+ubah,241,122
+cek,245,121
+terang,246,121
+tambahin,248,120
+nomer,247,120
+scren lock,,120
+biaya transfer,,120
+kuota,249,119
+anak,250,118
+in,251,117
+jos,252,116
+ok banget,,116
+mbanking,253,115
+selesai,255,114
+blubca,254,114
+via,256,113
+sat,257,113
+alhamdulilah,259,111
+log,260,111
+alas,258,111
+tahan,261,109
+user,262,108
+lapor,267,107
+fast,265,107
+so,263,107
+untung,264,107
+ny,266,107
+harap,268,106
+wifi,269,105
+gilir,270,104
+oke banget,,104
+kenal wajah,,104
+sip,271,103
+gada,272,102
+ribet banget,,102
+set,273,101
+kamera,274,101
+referal,275,100
+reset,276,100
+bantu transaksi,,100
+gopay,278,99
+belah,277,99
+loadingnya,281,98
+pdhl,279,98
+sya,280,98
+hari,283,97
+percaya,282,97
+recomended,285,96
+reward,286,96
+kek,284,96
+simpan,288,95
+wajah gagal,,95
+bonus,287,95
+tranfer,290,94
+mohon baik,,94
+stabil,289,94
+registrasi,295,92
+buat,293,92
+sesi,291,92
+ramah,292,92
+masalah,294,92
+kelas,298,90
+baca,296,90
+batas,297,90
+terus,299,89
+sambung,300,89
+repot,301,89
+bagus bantu,,89
+bagus sih,,89
+aps,307,88
+perban,306,88
+klik,303,88
+susah masuk,,88
+super,302,88
+kena admin,,88
+promonya,305,88
+sumpah,304,88
+telpon,309,87
+banking,308,87
+tuh,310,87
+ac,311,86
+belanja,314,86
+dipake,312,86
+syarat,313,86
+nyesel,316,84
+tutup,315,84
+muter,317,84
+gajelas,318,83
+bagus bagus,,83
+sat set,,82
+males,319,82
+qr,322,82
+abis,321,82
+kemarin,320,82
+no hp,,81
+jgn,325,81
+masuk akun,,81
+aplikasi lambat,,81
+job,324,81
+sedia,323,81
+adminya,326,80
+niat,327,79
+flaz,328,78
+poko,331,77
+paham,332,77
+trf,333,77
+mantep,329,77
+bingung,336,76
+usaha,335,76
+goyang,334,76
+god job,,76
+maju,337,75
+jalan,339,75
+saving,340,75
+emoney,341,75
+tahap,338,75
+mingu,345,74
+kalah,347,74
+pasti,342,74
+card,344,74
+loh,343,74
+deposito,346,74
+buruk banget,,73
+tp,350,72
+gratis transfer,,72
+versi,349,72
+ovo,351,72
+mudah banget,,71
+jaring bagus,,71
+saldo potong,,71
+animasi,352,71
+lokasi,353,71
+akun blokir,,71
+masuk susah,,71
+kaga,358,70
+nyoba,354,70
+aplikasi berat,,70
+customer,357,70
+log in,,70
+kesini,356,70
+alam,355,70
+gratis biaya,,69
+tari,359,69
+overal,362,69
+shopepay,360,69
+produk,361,69
+kartu fisik,,69
+bantu mudah,,69
+hadeh,365,68
+cash,371,68
+masuk masuk,,68
+it,367,68
+tuju,368,68
+tim,369,68
+kualitas,363,68
+jaya,364,68
+mah,370,68
+buang,366,68
+teman,375,67
+dikit,374,67
+apknya,376,67
+close,379,67
+pagi,380,67
+gara,372,67
+tunai kena,,67
+deteksi,381,67
+muda,377,67
+neng,373,67
+urus,378,67
+bayar pakai,,66
+takut,384,66
+kode referal,,66
+ram,382,66
+auto,385,66
+rugi,383,66
+urgent,386,65
+berat banget,,65
+mati,388,65
+gagal mulu,,65
+buru,387,65
+hati,391,64
+bi,392,64
+gila,390,64
+developer,389,64
+shope,393,64
+kl,396,63
+milik,395,63
+notif,394,63
+tangal,397,63
+donk,399,62
+makan,398,62
+cari,400,62
+cepat mudah,,61
+admin bulan,,61
+info,401,61
+make,404,61
+utama,402,61
+narik,403,61
+fitur bagus,,61
+love,407,60
+listrik,412,60
+verifikasi muka,,60
+isi saldo,,60
+friendly,409,60
+device,408,60
+kantor,410,60
+kesel,405,60
+blusaving,406,60
+delay,411,60
+banget aplikasi,,59
+pakai qris,,59
+bantu banget,,59
+aktif scren,,59
+responsif,415,59
+serba,417,59
+daftar susah,,59
+pas masuk,,59
+kali kali,,59
+juta,416,59
+sandi,414,59
+far,413,59
+mudah pakai,,58
+so far,,58
+ribu,420,58
+proses cepat,,58
+liat,422,58
+knpa,421,58
+handphone,423,58
+jelas,419,58
+aj,418,58
+bi fast,,58
+adm,425,57
+normal,427,57
+transfer gratis,,57
+ful,424,57
+malam,430,57
+lebih,429,57
+walet,428,57
+is,426,57
+iya,431,57
+vidio,435,56
+masak,437,56
+service,438,56
+mahal,433,56
+transaksi cepat,,56
+paket,432,56
+nominal,434,56
+rekomendasi,436,56
+tambah fitur,,56
+laku,444,55
+nyambung,439,55
+bnget,441,55
+smoth,442,55
+rumah,443,55
+minimal,440,55
+mohon bantu,,55
+mbca,445,54
+pakai wifi,,54
+bagus transaksi,,54
+transaksi gagal,,54
+banget masuk,,53
+asli,449,53
+vermuk,450,53
+tolol,448,53
+capek,447,53
+ad,453,52
+malu,455,52
+limit,454,52
+hehe,452,52
+banget transaksi,,52
+selfie,451,52
+gmna,456,52
+kini,462,51
+ken,459,51
+you,460,51
+sinyal bagus,,51
+banding,461,51
+verifikasi email,,51
+csnya,457,51
+bagus pokok,,51
+tolong bantu,,51
+mesti,463,51
+ikut,458,51
+kembali,470,50
+mesin,465,50
+atur uang,,50
+atas,469,50
+rp,468,50
+ngak,466,50
+dri,464,50
+wajah susah,,50
+ka,472,49
+kasi,478,49
+bifast,471,49
+fungsi,477,49
+hapy,476,49
+reset pasword,,49
+gabisa masuk,,49
+smoga,475,49
+penuh,473,49
+bos,474,49
+ayo,479,48
+slalu,480,48
+transaksi apa,,48
+milenial,484,48
+sms,481,48
+an,483,48
+bayar qris,,48
+setor tarik,,48
+paksa,482,48
+banget mudah,,47
+banget sih,,47
+pribadi,490,47
+atm kena,,47
+adain,491,47
+angkat,488,47
+out,487,47
+ragu,486,47
+seabank,489,47
+vidio cal,,47
+bagus aplikasi,,47
+layar,485,47
+lanjut,498,46
+mata,493,46
+mudah paham,,46
+otomatis,497,46
+masuk kode,,46
+bnyak,496,46
+diupdate,494,46
+aktivasi,492,46
+cantik,495,46
+susah ampun,,45
+detik,505,45
+pas vc,,45
+hidup,502,45
+pakai blue,,45
+heran,507,45
+nik,499,45
+server,510,45
+hapus data,,45
+nyangkut,508,45
+easy,500,45
+haloblu,506,45
+tgl,509,45
+ujung,501,45
+fasilitas,503,45
+asik,511,45
+masuk rekening,,45
+bagus cepat,,45
+transfer kena,,45
+kacau,504,45
+mudah guna,,45
+eror mulu,,44
+to,517,44
+ektp,531,44
+sidik,518,44
+erti,525,44
+tombol,530,44
+kredit,529,44
+transaksi pakai,,44
+merchant,521,44
+keluar,524,44
+user friendly,,44
+anak muda,,44
+saldo masuk,,44
+cangih,514,44
+gb,533,44
+gede,526,44
+keluh,528,44
+notifikasi,515,44
+kocak,512,44
+jujur,513,44
+tangap,523,44
+lemot,522,44
+wow,519,44
+lambat buruk,,44
+maintenance,516,44
+wajib,532,44
+ah,527,44
+investasi,538,43
+tangan,542,43
+jago,535,43
+jari,539,43
+cabang,541,43
+mending pakai,,43
+tipu,536,43
+tlp,537,43
+situ,540,43
+buka rek,,43
+token,543,43
+jt,534,43
+jga,546,42
+force,547,42
+bagus moga,,42
+bisnis,544,42
+nungu jam,,42
+wa,545,42
+lancar jaya,,41
+kunci,552,41
+pakai ribet,,41
+beli pulsa,,41
+bagus suka,,41
+ilang,550,41
+inovasi,551,41
+indonesia,549,41
+dompet,548,41
+event,553,41
+and,554,40
+ulas,555,40
+bikin akun,,40
+langkah,561,40
+emosi,556,40
+bikin rekening,,40
+baik sistem,,40
+mudah praktis,,40
+segi,559,40
+pakai kartu,,40
+force close,,40
+uang masuk,,40
+bagus nih,,40
+nomor hp,,40
+transaksi lancar,,40
+trimakasih,557,40
+opsi,558,40
+gelap,560,40
+lbh,565,39
+daftar ribet,,39
+satset,568,39
+sesi habis,,39
+sidik jari,,39
+status,563,39
+baru baru,,39
+tolong tambah,,39
+transfer uang,,39
+apnya,569,39
+very,570,39
+aja,567,39
+telepon,572,39
+yuk,562,39
+pakai transaksi,,39
+halaman,566,39
+money,574,39
+gampang banget,,39
+ngantri,573,39
+hadap,564,39
+mybca,571,39
+pas buka,,39
+kah,575,39
+ok bagus,,39
+my,577,38
+lot,578,38
+bagus pakai,,38
+mo,580,38
+jenis,583,38
+nyaman pakai,,38
+kirain,581,38
+jaman,587,38
+banget deh,,38
+murah,582,38
+undang,589,38
+cal cs,,38
+nya,584,38
+gabisa buka,,38
+nomor rekening,,38
+syariah,585,38
+puas banget,,38
+ama,586,38
+pikir,579,38
+ngasih,576,38
+semenjak,588,38
+aju pinjam,,38
+optimalisasi,592,37
+banget buka,,37
+suka pakai,,37
+coba kali,,37
+sma,599,37
+bolak,596,37
+mudah bagus,,37
+transaksi transfer,,37
+temen,598,37
+kiri,593,37
+plis,591,37
+aq,590,37
+aplikasi mudah,,37
+benerin,595,37
+up emoney,,37
+brp,594,37
+upload,597,37
+banget daftar,,36
+selfi,609,36
+banget verifikasi,,36
+banyakin,600,36
+tambahin fitur,,36
+banget nih,,36
+gtu,604,36
+bebas admin,,36
+kanan,601,36
+apl,611,36
+administrasi,607,36
+lupa pasword,,36
+perangkat,602,36
+kyc,612,36
+proses daftar,,36
+konfirmasi,603,36
+pdhal,605,36
+pay,606,36
+nungu antri,,36
+komplain,610,36
+rating,608,36
+tunai kartu,,36
+buka aplikasi,,36
+transfer rekening,,36
+mesin atm,,36
+suport,617,35
+bagus deh,,35
+fitur bayar,,35
+mudah aman,,35
+ngebantu,615,35
+simpan uang,,35
+daftar mudah,,35
+bukti,616,35
+mantab,613,35
+debit fisik,,35
+fiturfitur,614,35
+siang,624,34
+buka akun,,34
+nga,627,34
+buka tabung,,34
+susah verifikasi,,34
+simple mudah,,34
+iklan,626,34
+byk,620,34
+pakai mudah,,34
+lah,625,34
+pemberitahuan,619,34
+efisien,622,34
+upgrade,621,34
+khusus,618,34
+bagus dah,,34
+tu,623,34
+no rekening,,34
+otp masuk,,34
+bagus lambat,,33
+moga sukses,,33
+tagih,637,33
+amanah,628,33
+mw,634,33
+main,632,33
+nge,638,33
+neng banget,,33
+ajar,630,33
+videocal,639,33
+bawa,629,33
+lucu,635,33
+log out,,33
+mohon maf,,33
+is the,,33
+dn,631,33
+hubung cs,,33
+dana masuk,,33
+pos,636,33
+rekening mudah,,33
+sekian,633,33
+dalam,640,33
+pakai kode,,32
+lumayan bagus,,32
+minus,649,32
+android,645,32
+isi data,,32
+deposit,647,32
+kyk,654,32
+sesuai butuh,,32
+andal,643,32
+antre,657,32
+ambil uang,,32
+thank,652,32
+aktifin,646,32
+konvensional,641,32
+puluh,648,32
+jamin,644,32
+cepet banget,,32
+aman nyaman,,32
+nunguin,651,32
+suruh nungu,,32
+masuk tolong,,32
+pisah,650,32
+sunguh,642,32
+neo,658,32
+bom,659,32
+masukin kode,,32
+beres,655,32
+tunai setor,,32
+bad,656,32
+blu,653,32
+masuk verifikasi,,31
+baharu,671,31
+mudah proses,,31
+paket data,,31
+mudah bantu,,31
+transaksi bagus,,31
+ampe,666,31
+pakek,664,31
+cinta,668,31
+rekomended,670,31
+sabar,667,31
+parah,660,31
+ulang kali,,31
+bagus cuman,,31
+kecewa banget,,31
+mntap,676,31
+cepat transaksi,,31
+sebenernya,663,31
+lambat berat,,31
+sempurna,674,31
+haduh,672,31
+face,661,31
+lambat lambat,,31
+alah,665,31
+cape,669,31
+stuck,673,31
+enak banget,,31
+pencet,662,31
+bgus,675,31
+customer service,,30
+kode verifikasi,,30
+fitur tarik,,30
+berat lambat,,30
+dapat,687,30
+transaksi online,,30
+fitur lengkap,,30
+center,682,30
+transaksi uang,,30
+shope pay,,30
+hm,690,30
+blibli,679,30
+ngerti,689,30
+tunai biaya,,30
+mode,691,30
+debit card,,30
+nanya,684,30
+diskon,678,30
+baik aplikasi,,30
+pas daftar,,30
+use,677,30
+tangung,686,30
+cs ramah,,30
+jadi,688,30
+vidcal,685,30
+koneksi putus,,30
+cair,681,30
+gaji,680,30
+pending,683,30
+masuk saldo,,30
+koneksi internet,,30
+pakai biaya,,30
+tunai pakai,,29
+fix,698,29
+warna,709,29
+lama,693,29
+verifikasi data,,29
+vc cs,,29
+layan bagus,,29
+alami,706,29
+lho,704,29
+fre biaya,,29
+aduh,694,29
+rencana,701,29
+pakai bagus,,29
+henti,697,29
+request,700,29
+banget bantu,,29
+scan qris,,29
+nambah,695,29
+bagus simple,,29
+code,708,29
+busuk,696,29
+moga baik,,29
+kaum,710,29
+berkalikali,699,29
+tarik uang,,29
+kaya gin,,29
+ngulang,692,29
+kelar,703,29
+silah,702,29
+melulu,707,29
+responya,705,29
+biaya adminya,,29
+lambat masuk,,28
+verivikasi,723,28
+mutasi,711,28
+cal center,,28
+langan,712,28
+biaya adm,,28
+barcode,729,28
+nyimpen,730,28
+bye,731,28
+fast respon,,28
+gimna,728,28
+sibuk,722,28
+please,716,28
+cahaya,720,28
+masuk pakai,,28
+cmn,725,28
+sambung putus,,28
+masuk ulang,,28
+daftar pas,,28
+kirim uang,,28
+bagi,724,28
+kluar,727,28
+instal ulang,,28
+contoh,713,28
+kali coba,,28
+dh,721,28
+alamat,715,28
+blum,718,28
+chat,719,28
+tibatiba,714,28
+thank you,,28
+sangat,717,28
+banget bikin,,28
+telfon,726,28
+seru,734,27
+selamat,746,27
+tolong hapus,,27
+daftar gagal,,27
+mas,750,27
+mudah ribet,,27
+proses verifikasi,,27
+ngebug,737,27
+tarik setor,,27
+malas,738,27
